@@ -1,6 +1,5 @@
+
 public class Skill {
-    public String Name;
-    public int Mana;
+    public String name;
+
 }
-
-
