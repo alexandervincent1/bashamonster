@@ -1,7 +1,7 @@
-public class Enemy {
+public class Player {
     public Health health = new Health();
 
-    public Enemy()
+    public Player()
     {
         health.max = 100;
         health.min = 0;
