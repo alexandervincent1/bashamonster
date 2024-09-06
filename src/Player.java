@@ -1,5 +1,6 @@
 public class Player {
     public Health health = new Health();
+    public Damage damage = new Damage();
 
     public Player()
     {

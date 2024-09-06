@@ -1,6 +1,6 @@
 public class Enemy {
     public Health health = new Health();
-
+    public Damage damage = new Damage();
     public Enemy()
     {
         health.max = 100;
